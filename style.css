@@ -1,0 +1,304 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 1005%;
+}
+.container h1{
+    font-family: sans-serif;
+    position: absolute;
+    left: 540px;
+    margin-top: 20px;
+}
+.brea{
+    border: 2px solid crimson;
+    background: crimson;
+    color: #fff;
+    width: 80px;
+    height: 30px;
+    position: absolute;
+    left: 440px;
+    top: 100px;
+    padding-left: 6px;
+    padding-top: 4px;
+    border-radius: 5px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.brea:hover{
+    color: crimson;
+    background: none;
+}
+.lun{
+    border: 2px solid crimson;
+    background: crimson;
+    color: #fff;
+    width: 80px;
+    height: 30px;
+    position: absolute;
+    left: 550px;
+    top: 100px;
+    padding-left: 15px;
+    padding-top: 4px;
+    border-radius: 5px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.lun:hover{
+    color: crimson;
+    background: none;
+}
+.shak{
+    border: 2px solid crimson;
+    background: crimson;
+    color: #fff;
+    width: 80px;
+    height: 30px;
+    position: absolute;
+    left: 660px;
+    top: 100px;
+    padding-left: 15px;
+    padding-top: 4px;
+    border-radius: 5px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.shak:hover{
+    color: crimson;
+    background: none;
+}
+.din{
+    border: 2px solid crimson;
+    background: crimson;
+    color: #fff;
+    width: 80px;
+    height: 30px;
+    position: absolute;
+    left: 770px;
+    top: 100px;
+    padding-left: 15px;
+    padding-top: 4px;
+    border-radius: 5px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.din:hover{
+    color: crimson;
+    background: none;
+}
+.menu{
+    width: 100%;
+    height: 100%;
+}
+.menu h4{
+    position: absolute;
+    left: 290px;
+    top: 170px;
+}
+.menu span{
+    position: absolute;
+    left: 440px;
+    top: 170px;
+}
+.menu hr{
+    width: 200px;
+    position: absolute;
+    left: 290px;
+    top: 187px;
+}
+.menu p{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 290px;
+    top: 200px;
+}
+.menu img{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left: 90px;
+    top: 150px;
+}
+.Egg{
+    width: 100%;
+    height: 100%;
+}
+.Egg h4{
+    position: absolute;
+    left: 900px;
+    top: 170px;
+}
+.Egg span{
+    position: absolute;
+    left: 1045px;
+    top: 170px;
+}
+.Egg hr{
+    width: 200px;
+    position: absolute;
+    left: 900px;
+    top: 187px;
+}
+.Egg p{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 900px;
+    top: 200px;
+}
+.Egg img{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left: 700px;
+    top: 160px;
+}
+.pakai{
+    width: 100%;
+    height: 100%;
+}
+.pakai h4{
+    position: absolute;
+    left: 290px;
+    top: 420px;
+}
+.pakai span{
+    position: absolute;
+    left: 440px;
+    top: 420px;
+}
+.pakai hr{
+    width: 200px;
+    position: absolute;
+    left: 290px;
+    top: 440px;
+}
+.pakai p{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 290px;
+    top: 450px;
+}
+.pakai img{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left: 90px;
+    top: 400px;
+}
+.Aloo{
+    width: 100%;
+    height: 100%;
+}
+.Aloo h4{
+    position: absolute;
+    left: 900px;
+    top: 420px;
+}
+.Aloo span{
+    position: absolute;
+    left: 1045px;
+    top: 420px;
+}
+.Aloo hr{
+    width: 200px;
+    position: absolute;
+    left: 900px;
+    top: 440px;
+}
+.Aloo p{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 900px;
+    top: 450px;
+}
+.Aloo img{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left: 700px;
+    top: 400px;
+}
+.Daal{
+    width: 100%;
+    height: 100%;
+}
+.Daal h4{
+    position: absolute;
+    left: 290px;
+    top: 680px;
+}
+.Daal span{
+    position: absolute;
+    left: 440px;
+    top: 680px;
+}
+.Daal hr{
+    width: 200px;
+    position: absolute;
+    left: 290px;
+    top: 700px;
+}
+.Daal p{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 290px;
+    top: 710px;
+}
+.Daal img{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left: 90px;
+    top: 660px;
+}
+.gobi{
+    width: 100%;
+    height: 100%;
+}
+.gobi h4{
+    position: absolute;
+    left: 900px;
+    top: 680px;
+}
+.gobi span{
+    position: absolute;
+    left: 1045px;
+    top: 680px;
+}
+.gobi hr{
+    width: 200px;
+    position: absolute;
+    left: 900px;
+    top: 700px;
+}
+.gobi p{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 900px;
+    top: 710px;
+}
+.gobi img{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left: 700px;
+    top: 660px;
+}
+footer{
+    width: 600px;
+    height: 40px;
+    font-size: 20px;
+    color: crimson;
+    position: absolute;
+    left: 500px;
+    top: 900px;
+}
